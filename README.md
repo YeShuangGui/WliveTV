@@ -1,5 +1,6 @@
 # WliveTV
-## [我的视频课程：《FFmpeg打造Android万能音频播放器》](https://edu.csdn.net/course/detail/6842)
+## [我的视频课程（基础）：《FFmpeg打造Android万能音频播放器》](https://edu.csdn.net/course/detail/6842)
+## [我的视频课程（进阶）：《FFmpeg+OpenGL+OpenSL打造Android视频播放器》](https://edu.csdn.net/course/detail/8036)
 基于ijkplayer的视频直播软件<br/><br/>
 注：里面加载图片的Imageloader改了加载图片的链接源代码的，才能实现加载视频流获取图片！（用自己的Imageloader是不能通过流获取图片的！！）<br/><br/>
 包含以下功能：<br/><br/>
